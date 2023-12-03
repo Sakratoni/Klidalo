@@ -1,1 +1,3 @@
 # Klidalo
+new
+klass
